@@ -1,0 +1,7 @@
+speak|Hey guys now I will show you how to write a hell world in Python
+write|vim hello.py
+write|iprint("Hello world")
+press|escape
+write|:wq
+write|python3 hello.py
+speak|that is all folks
